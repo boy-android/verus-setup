@@ -5,7 +5,7 @@
 	"url": "stratum+tcp://ap.luckpool.net:3956",
 		"timeout":150
 	}
-	],	
+	],
 	"user": "RGnZhUJoYzvSCmTmtgXziozfbdhxDUxEuw.miner",
 	"pass": "hybrid",
 	"algo": "verus",
